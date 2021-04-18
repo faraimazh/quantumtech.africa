@@ -14,11 +14,13 @@ The first quantum technology revolution brought new fundamental concepts and cap
 
 QuantumTech.Africa is the first start up in Africa that is purely focused on commercializing quantum tech breakthroughs. In summary:
 
-- We help build investable companies.
+- We help build investable companies and invest in promising quantum tech startups. 
 
-- We invest in promising quantum tech startups. 
+We work closely with founders to help them grow their companies, gain access to corporates, partners and experts to improve business outcomes and attract funding.
 
 - We guide businesses in their quantum tech projects and initiatives.
+
+We engage with corporates to learn about their medium to long-tern goals, provide visibility and access to quantum tech and enable collaboration with the quantum tech community to solve key challenges across various industries.
 
 - We support policymakers to knock down barriers and make it easy to commercialize quantum tech innovations.
 
@@ -26,7 +28,7 @@ QuantumTech.Africa is the first start up in Africa that is purely focused on com
 
 ## Why our website is on GitHub
 
-We believe transparency — in how we think, what we believe and why — is the first step to that trust.
+We believe in transparency — how we think, what we believe and why — is the first step to build trust.
 
 We've moved our entire web presence to GitHub to become more transparent. Here, you can see how things have changed over time, propose improvements, or even take our ideas and make them your own (the relationships are ours, though). You can also see the things you'd usually find on a company website, like a list of our founders and the questions we ask ourselves when making business decisions. We're grateful you're taking the time to learn about us.
 
@@ -52,6 +54,6 @@ We are an equal opportunity employer and celebrate diversity. We are committed t
 
 ## License
 
-This manual is open sourced under a Creative Commons license (https://creativecommons.org/licenses/by/3.0/deed.en_US).
+This manual is open sourced under a [Creative Commons license](https://creativecommons.org/licenses/by/3.0/deed.en_US).
 
 
