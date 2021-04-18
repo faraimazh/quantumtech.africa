@@ -4,7 +4,7 @@ Commercializing quantum tech breakthroughs in Africa
 
 ## Start Here
 
-Why we exist
+## Why we exist
 
 We help entrepreneurial scientists, businesses, investors, and policymakers in Africa find their path to success with quantum technologies today.
 
