@@ -26,6 +26,8 @@ We engage with corporates to learn about their medium to long-tern goals, provid
 
 - We gather top talent in quantum in the continent and bring together great minds across the ecosystem in think and do tanks to discuss, share and inspire ideas of innovation.
 
+- We provide Market Entry Consultancy for innovative business owners looking to enter the quantum tech market in Africa.
+
 ## Why our website is on GitHub
 
 We believe in transparency — how we think, what we believe and why — is the first step to build trust.
