@@ -39,13 +39,14 @@ We've moved our entire web presence to GitHub to become more transparent. Here, 
 We decided to take a chance and open source to save our clients time and help them decide whether to work with us. (The ones who want to skip talking to us also save a step, which is terrific. Our time is precious.) We hope to see stars and forks so we can go even further.
 
 ## Who we are
+
 <img src="https://github.com/faraimazh/quantumtech.africa/blob/main/images/FaraiHeadshot2.jpg" width="350" height="250">
-Farai Mazhandu 
--[Twitter](https://twitter.com/FaraiMazhandu)
--[LinkedIn](https://www.linkedin.com/in/farai-mazhandu-83b5271b/)
+
+Farai Mazhandu [LinkedIn](https://www.linkedin.com/in/farai-mazhandu-83b5271b/) | [Twitter](https://twitter.com/FaraiMazhandu)
+
 <img src="https://github.com/faraimazh/quantumtech.africa/blob/main/images/LesediRTWNew.jpg" width="350" height="250">
-Lesedi Modise
--[LinkedIn](https://www.linkedin.com/in/lesedi-modise-10288b73/)
+
+Lesedi Modise [LinkedIn](https://www.linkedin.com/in/lesedi-modise-10288b73/)
 
 ## Where we work
 
@@ -55,7 +56,7 @@ Harare
 
 ## Work with us
 
-We're actively seeking candidates to join our team. If you (or someone you know) loves quantum tech and business and wants to try venture, please apply here.
+We're actively seeking candidates to join our team. If you (or someone you know) loves quantum tech and business and wants to try venture, please apply [here](lesedimodise@gmail.com)
 
 We are an equal opportunity employer and celebrate diversity. We are committed to building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of our work depends on being inclusive.
 
