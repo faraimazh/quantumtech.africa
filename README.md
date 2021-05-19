@@ -1,4 +1,6 @@
-# QuantumTech.Africa
+<img src="https://github.com/faraimazh/quantumtech.africa/blob/main/images/Bayete%20Quantum%20Technologies.png">
+
+# Bayete Quantum Technologies
 
 Commercializing quantum tech breakthroughs in Africa
 
@@ -37,10 +39,13 @@ We've moved our entire web presence to GitHub to become more transparent. Here, 
 We decided to take a chance and open source to save our clients time and help them decide whether to work with us. (The ones who want to skip talking to us also save a step, which is terrific. Our time is precious.) We hope to see stars and forks so we can go even further.
 
 ## Who we are
-
-Farai Mazhandu — [Twitter](https://twitter.com/FaraiMazhandu) // [LinkedIn](https://www.linkedin.com/in/farai-mazhandu-83b5271b/)
-
-Lesedi Modise — [LinkedIn](https://www.linkedin.com/in/lesedi-modise-10288b73/)
+<img src="https://github.com/faraimazh/quantumtech.africa/blob/main/images/FaraiHeadshot2.jpg" width="350" height="250">
+Farai Mazhandu 
+-[Twitter](https://twitter.com/FaraiMazhandu)
+-[LinkedIn](https://www.linkedin.com/in/farai-mazhandu-83b5271b/)
+<img src="https://github.com/faraimazh/quantumtech.africa/blob/main/images/LesediRTWNew.jpg" width="350" height="250">
+Lesedi Modise
+-[LinkedIn](https://www.linkedin.com/in/lesedi-modise-10288b73/)
 
 ## Where we work
 
