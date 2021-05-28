@@ -32,11 +32,9 @@ We engage with corporates to learn about their medium to long-tern goals, provid
 
 ## Why our website is on GitHub
 
-We believe in transparency — how we think, what we believe and why — is the first step to build trust.
+We believe in the power of collaboration — how we think, what we believe and why — is the first step to build trust.
 
-We've moved our entire web presence to GitHub to become more transparent. Here, you can see how things have changed over time, propose improvements, or even take our ideas and make them your own (the relationships are ours, though). You can also see the things you'd usually find on a company website, like a list of our founders and the questions we ask ourselves when making business decisions. We're grateful you're taking the time to learn about us.
-
-We decided to take a chance and open source to save our clients time and help them decide whether to work with us. (The ones who want to skip talking to us also save a step, which is terrific. Our time is precious.) We hope to see stars and forks so we can go even further.
+We've moved our entire web presence to GitHub to make it easy to collaborate with our diverse partners. Here, you can track changes over time, shoot us suggestions to get better, or even adapt our ideas to suit your own needs.
 
 ## Who we are
 
@@ -56,7 +54,7 @@ Harare
 
 ## Work with us
 
-We're actively seeking candidates to join our team. If you (or someone you know) loves quantum tech and business and wants to try venture, please apply [here](lesedimodise@gmail.com)
+We're actively seeking candidates to join our team. If you (or someone you know) loves quantum tech and business and wants to try venture, please apply [here](info@bayetequantum.tech)
 
 We are an equal opportunity employer and celebrate diversity. We are committed to building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of our work depends on being inclusive.
 
