@@ -2,7 +2,7 @@
 
 # Bayete Quantum Technologies
 
-Commercializing quantum tech breakthroughs in Africa
+Commercializing quantum tech breakthroughs in Africa today
 
 ## Start Here
 
@@ -32,9 +32,9 @@ We engage with corporates to learn about their medium to long-tern goals, provid
 
 ## Why our website is on GitHub
 
-We believe in the power of collaboration — how we think, what we believe and why — is the first step to build trust.
+We believe in the power of collaboration — our thinking, beliefs and approach enables us to build lasting relationships.
 
-We've moved our entire web presence to GitHub to make it easy to collaborate with our diverse partners. Here, you can track changes over time, shoot us suggestions to get better, or even adapt our ideas to suit your own needs.
+GitHub makes it easy to collaborate with our diverse partners. We love it that here, you can track changes over time, shoot us suggestions to get better, or even adapt our ideas to suit your own needs in a streamlined way.
 
 ## Who we are
 
@@ -54,7 +54,7 @@ Harare
 
 ## Work with us
 
-We're actively seeking candidates to join our team. If you (or someone you know) loves quantum tech and business and wants to try venture, please apply [here](info@bayetequantum.tech)
+We're actively seeking candidates to join our team. If you (or someone you know) loves Africa, quantum tech and business and wants to explore, please apply [here](info@bayetequantum.tech)
 
 We are an equal opportunity employer and celebrate diversity. We are committed to building a team that represents a variety of backgrounds including race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, and disability status. The success of our work depends on being inclusive.
 
