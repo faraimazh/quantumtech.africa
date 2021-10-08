@@ -14,7 +14,7 @@ Quantum technology is an emerging field of science and engineering that leverage
 
 The first quantum technology revolution brought new fundamental concepts and capabilities such as a laser, GPS, semiconductors, nuclear magnetic resonance, or superconductivity. The second quantum technology revolution harnesses physics at the atomic scale. It allows controlling and manipulating individual quantum states leading to a wave of new technologies that will create many new businesses that help solve many of today's global challenges.  Africa's competitive advantage is its talented young population and abundant natural resource. It simply cannot afford to be left out of the quantum revolution, which will sit at the core of building new enterprises, future careers, and workforces, as well as driving accessible innovation.
 
-QuantumTech.Africa is the first start up in Africa that is purely focused on commercializing quantum tech breakthroughs. In summary:
+Bayete Quantum Tech is the first start up in Africa that is purely focused on commercializing quantum tech breakthroughs. In summary:
 
 - We help build investable companies and invest in promising quantum tech startups. 
 
