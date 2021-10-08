@@ -9,14 +9,14 @@ A thought leader in the African quantum landscape driving the adoption and imple
 ## Why we exist
 
 ## Our Vision:
-To harness current capabilities to solve Africa’s hard problems specifically in;
+To harness current capabilities to solve Africa’s hard problems specifically in:
 - Climate change 
 - Agriculture & food security
 - Healthcare, drug & therapy delivery
 - Financial inclusion
 
 ## Our Mission: 
-We are impatient optimists pushing for;
+We are impatient optimists pushing for:
 - Freedom – from the scourge of avoidable disease and hunger
 - Fairness – equal participants in the global ecosystem developing quantum solutions
 
