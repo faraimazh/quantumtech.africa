@@ -4,10 +4,6 @@
 
 A thought leader in the African quantum landscape driving the adoption and implementation of quantum technologies in everyday applications
 
-## Start Here
-
-## Why we exist
-
 ## Our Vision:
 To harness current capabilities to solve Africa’s hard problems specifically in:
 - Climate change 
