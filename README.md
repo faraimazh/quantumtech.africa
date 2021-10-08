@@ -28,7 +28,7 @@ GitHub makes it easy to collaborate with our diverse partners. We love it that h
 
 Farai Mazhandu [LinkedIn](https://www.linkedin.com/in/farai-mazhandu-83b5271b/) | [Twitter](https://twitter.com/FaraiMazhandu)
 
-<img src="https://github.com/faraimazh/quantumtech.africa/blob/main/images/LesediRTWNew.jpg" width="150" height="100">
+<img src="https://github.com/faraimazh/quantumtech.africa/blob/main/images/LesediRTWNew.jpg" width="350" height="250">
 
 Lesedi Modise [LinkedIn](https://www.linkedin.com/in/lesedi-modise-10288b73/)
 
