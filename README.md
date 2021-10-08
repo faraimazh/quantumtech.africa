@@ -48,6 +48,8 @@ Lesedi Modise [LinkedIn](https://www.linkedin.com/in/lesedi-modise-10288b73/)
 
 ## Where we work
 
+Denver
+
 Johannesburg
 
 Harare
